@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "title": "Men's Stylish & Fashionable Trendy Good Looking Long Sleeve Casual Shirt.",
+  "rating": 4.7,
+  "reviews": 2254,
+  "oldPrice": 1500,
+  "price": 1139.33,
+  "promotion": "Min. spend ৳550",
+  "mainImage":  " https://i.ibb.co.com/3yHVbyGm/mainImg.png",
+  "images": [
+    " https://i.ibb.co.com/3yHVbyGm/mainImg.png",
+    "https://i.ibb.co.com/Mk7F8Zbr/subImg1.png",
+    "https://i.ibb.co.com/5g9MFzyJ/subImg2.png",
+    "https://i.ibb.co.com/TD2khDSj/subImg3.png",
+    "https://i.ibb.co.com/qLRQdpFf/subImg4.png"
+  ],
+  "colors": [
+    { "name": "Navy Blue", "image": "https://i.ibb.co.com/q3pVcrXD/color1.png" },
+    { "name": "Red", "image": "https://i.ibb.co.com/j9vCpKGd/color2.png" },
+    { "name": "Pink", "image": "https://i.ibb.co.com/Q7RyTWfT/color3.png" },
+    { "name": "Black", "image": "https://i.ibb.co.com/d1RPcr1/color4.png" }
+  ],
+  "sizes": ["XS", "S", "M", "L", "XL"],
+  "delivery": {
+    "regular": "Delivery within 2-3 days",
+    "express": "Not Available"
+  },
+  "seller": {
+    "name": "BD FASHION HOUSE",
+    "rating": 99.8,
+    "shipOnTime": "100%",
+    "chatResponse": "90%",
+    "verified": true
+  }
+}
